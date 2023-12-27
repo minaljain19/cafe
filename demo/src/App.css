@@ -1,0 +1,398 @@
+.App {
+  text-align: center;
+}
+body {
+  padding-right: 0px !important;
+}
+.pageHeding {
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  font-weight: 400 !important;
+}
+.tableBoxShadow {
+  box-shadow: 0px 0px 1px 1px silver !important;
+}
+.mainbox {
+  height: 100vh !important;
+  background-attachment: fixed !important;
+  background-position: center !important;
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+  background-image: url("./components/menuItem/dd.jpg");
+  /* background-color: rgba(0, 0, 0, 0.664); */
+}
+.box2 {
+  margin: 20px auto;
+}
+@media (max-width: 768px) {
+  .itemNames {
+    padding-left: 30px !important;
+  }
+}
+.removebut {
+  background-color: rgb(131, 14, 14) !important;
+  min-width: 1px !important;
+  border-radius: 50% !important;
+  padding: 1px 8px !important;
+}
+.addOrder {
+  background-color: rgb(131, 14, 14) !important;
+  color: white !important;
+  margin: 4px !important;
+  margin-left: 24px !important;
+}
+.linkAll {
+  width: 100%;
+  color: black !important;
+}
+.newFont {
+  font-family: "Freehand", cursive !important;
+  font-size: 40px !important;
+  margin: 10px;
+  margin-left: 2% !important;
+}
+
+.plus {
+  border: 1px solid rgb(114, 39, 39) !important;
+  background-color: white !important;
+  color: black !important;
+  padding: 4px 3px !important;
+  font-size: 15px !important;
+  border-radius: 0px 10px 10px 0px !important;
+  min-width: 40px !important;
+}
+.ckeckOut:hover {
+  font-family: Cabin;
+  background-color: rgb(255, 255, 255) !important;
+  letter-spacing: 3px !important;
+
+  transition: 2s;
+
+  letter-spacing: 0px;
+
+  opacity: 1;
+}
+.ckeckOut:hover .u {
+  color: rgb(71, 18, 18) !important;
+  opacity: 1;
+}
+.ckeckOut {
+  /* letter-spacing: 3px !important; */
+  font-family: "Freehand", cursive !important;
+  transition: 2s;
+  background-color: rgb(114, 39, 39) !important;
+  color: white !important;
+  padding: 10px 30px !important;
+  font-size: 18px !important;
+  border-radius: 30px !important;
+}
+.mainCourse1 {
+  background-image: url("./components/menuItem/derink.jpg");
+  height: 156px;
+  width: 100%;
+  padding-top: 30px !important;
+  font-size: 20px !important;
+  margin-top: 10px !important;
+  text-align: center !important;
+  background-position: left !important;
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+  color: white !important;
+}
+.mainCourse {
+  background-image: url("./components/menuItem/menu2.jpg");
+  height: 156px;
+  width: 100%;
+  padding-top: 30px !important;
+  font-size: 20px !important;
+  margin-top: 24px !important;
+  text-align: center !important;
+  background-position: center !important;
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+  color: white !important;
+}
+.upperlayer {
+  background-color: #252a2a8a !important;
+  height: 155px;
+  margin-top: -29px;
+  padding-top: 17px;
+  font-size: 26px;
+  font-family: cabin !important;
+}
+.ckeckOut2 {
+  transition: 2s;
+  background-color: rgb(114, 39, 39) !important;
+  color: white !important;
+
+  font-size: 14px !important;
+}
+.contactGrid1 {
+  background-color: rgba(247, 255, 255, 0.829) !important;
+  margin: 10px;
+  color: black;
+  padding: 20px !important;
+  border-radius: 20px;
+  height: 290px;
+  box-shadow: 0px 0px 1px 2px silver !important;
+}
+.contactGrid {
+  height: auto !important;
+   display: flex !important;
+   align-items: center !important;
+   justify-content: center !important;
+  background-position: center !important;
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+  background-image: url("./components/menuItem/contct.jpg");
+}
+.loc {
+  margin-top: 15px !important;
+  font-family: cabin !important;
+}
+.time {
+  line-height: 28px !important;
+  font-family: cabin !important;
+}
+.backBut {
+  border: 1px solid rgb(114, 39, 39) !important;
+  background-color: white !important;
+  color: rgb(114, 39, 39) !important;
+  margin-top: 4px !important;
+  margin-left: 10px !important;
+  margin-bottom: -35px !important;
+}
+.infoForOrder {
+  border: 1px solid rgb(114, 39, 39) !important;
+  background-color: white !important;
+  padding: 6px !important;
+  color: rgb(114, 39, 39) !important;
+  border-radius: 10px;
+  margin: 20px !important;
+  width: 80% !important;
+  height: 50px !important;
+  margin-top: 10px !important;
+}
+.time1 {
+  line-height: 29px !important;
+  font-family: cabin !important;
+}
+.ckeckOut14 {
+  transition: 2s;
+  background-color: rgb(114, 39, 39) !important;
+  color: white !important;
+  padding: 10px 20px !important;
+  opacity: 0.6;
+  font-size: 14px !important;
+  border-radius: 30px !important;
+  margin-top: 20px !important;
+}
+.ckeckOut1 {
+  transition: 2s;
+  background-color: rgb(114, 39, 39) !important;
+  color: white !important;
+  padding: 10px 20px !important;
+  font-size: 14px !important;
+}
+.textForExtra {
+  border: 1px solid rgb(114, 39, 39) !important;
+  background-color: white !important;
+  padding: 6px !important;
+  color: rgb(114, 39, 39) !important;
+  border-radius: 10px;
+  margin: 20px !important;
+  width: 96% !important;
+  height: 50px !important;
+  margin-top: 20px !important;
+}
+.searchBar {
+  box-shadow: 0px 0px 1px 2px silver !important;
+  background-color: white !important;
+  padding: 10px !important;
+  color: rgb(114, 39, 39) !important;
+  border-radius: 30px;
+  width: 100% !important;
+
+  margin: 20px !important;
+  position: relative;
+  top: 10px !important;
+}
+.MuiInputBase-root {
+  background-color: white !important;
+  margin-top: -6px !important;
+}
+.plus1 {
+  border: 1px solid rgb(114, 39, 39) !important;
+  background-color: white !important;
+  color: black !important;
+  padding: 4px 3px !important;
+  font-size: 15px !important;
+  border-radius: 10px 0px 0px 10px !important;
+  min-width: 40px !important;
+}
+.heading {
+  font-size: 20px !important;
+  font-weight: bold !important;
+}
+.MuiTableCell-root {
+  text-align: center !important;
+}
+.addbutton {
+  height: 43px !important;
+  float: right;
+  background: rgb(114, 39, 39) !important;
+  padding: 10px 33px !important;
+  border-radius: 0px !important;
+}
+.minus {
+  border: 1px solid rgb(114, 39, 39) !important;
+  background-color: white !important;
+  color: black !important;
+  padding: 4px 3px !important;
+
+  font-size: 15px !important;
+  border-radius: 0px !important;
+  min-width: 40px !important;
+}
+.boxForEachitem {
+  justify-content: center !important;
+}
+.eachItemDetail {
+  height: auto;
+  border-radius: 20px;
+  box-shadow: 0px 0px 1px 2px silver !important;
+  background-color: white;
+  padding: 20px 10px;
+  margin: 10px;
+}
+.navFixed {
+}
+.newBx {
+  margin: 26px !important;
+  height: 150px;
+  padding-top: 12px;
+
+  margin: 22px;
+  background-color: white !important;
+  border-radius: 17px;
+  text-align: center;
+  box-shadow: 0px 0px 1px 2px silver;
+}
+.navb {
+  background: rgba(0, 0, 0, 0.664) !important;
+  box-shadow: 0px 0px !important;
+}
+.logo {
+  width: 147px;
+  height: 37px;
+  position: relative;
+  left: 28px;
+  top: 11px;
+}
+.ord {
+  font-family: "Cabin" !important;
+  font-size: 40px !important;
+  letter-spacing: 4px !important;
+  text-align: center !important;
+}
+.nabMenuu {
+  font-size: 16px !important;
+  margin: 15px !important;
+  transition: 1s;
+}
+.nabMenuu:hover {
+  color: rgb(252, 202, 138) !important;
+  transition: 1s;
+}
+.orderFood {
+  height: 89vh !important;
+  display: flex !important;
+  flex-direction: column !important;
+  justify-content: center !important;
+  align-items: center !important;
+  /* padding-top: 170px !important;
+  text-align: center;
+  height: 417.4px !important; */
+  width: 100%;
+  color: white;
+  background: rgba(0, 0, 0, 0.664) !important;
+}
+.navBut {
+  padding: 10px 30px !important;
+  background: rgba(245, 245, 220, 0.103) !important;
+  margin: 12px !important;
+  font-weight: bold;
+  font-family: "Cabin";
+  /* background-color: rgba(216, 219, 219, 0.301) !important; */
+}
+.box1 {
+  margin: 30px auto;
+}
+
+.menuItem {
+  height: 150px;
+  padding-top: 12px;
+  margin: 22px;
+  background-color: white !important;
+  border-radius: 17px;
+  text-align: center;
+  box-shadow: 0px 0px 1px 2px silver;
+}
+.menuIcons {
+  width: 122px;
+  height: 74px;
+}
+body {
+  /* background: #000000d9 !important; */
+  font-family: "Cabin" !important;
+}
+.back {
+  height: auto !important;
+  padding-bottom: 30px !important;
+}
+.back1 {
+  padding-bottom: 0px !important;
+}
+a {
+  color: white !important;
+  text-decoration: none;
+  font-family: "Cabin" !important;
+}
+.nabMenuu {
+  /* media queries */
+  @media (max-width: 767px) {
+    font-size: 12px !important;
+  }
+  @media (max-width: 400px) {
+  }
+}
+.orderFood {
+  @media (max-width: 500px) {
+    height: 127vh !important;
+  }
+}
+.mainbox {
+  @media (max-width: 500px) {
+    height: 135vh !important;
+  }
+}
+.newFont {
+  @media (max-width: 500px) {
+    font-size: 30px !important;
+    margin-left: -1% !important;
+  }
+}
+.backs {
+  /* media queries */
+  @media (max-width: 450px) {
+    width: 135% !important;
+  }
+  @media (max-width: 400px) {
+  }
+}
+.menuIconButton {
+  color: white !important;
+  font-size: 20px !important;
+}
+.menuIcon {
+  font-size: 36px !important;
+}

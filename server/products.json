@@ -1,0 +1,351 @@
+[
+  {
+    "names": "pizza",
+    "type": "item1",
+    "photo": "https://media.istockphoto.com/id/1377372234/photo/pizza-with-salami-bell-pepper-tomatoes-and-cheese-pickles-bacon-and-sausages-on-a-light.jpg?s=1024x1024&w=is&k=20&c=w42_pOFEXNNtcZ9iF0dPYXfXzuXOcKOLfWmItCnzRAg=",
+    "catrgory": [
+      {
+        "id": "101",
+        "name": "OTC PIZZA",
+        "price": "300",
+        "eachPrice": "300",
+        "description": "Included Onion,capsicum,corn with extra cheese",
+        "photo": "https://cdn.pixabay.com/photo/2017/12/09/08/18/pizza-3007395_960_720.jpg",
+        "qunatity": 1
+      },
+      {
+        "id": "102",
+        "name": "3C PIZZA",
+        "price": "400",
+        "eachPrice": "400",
+        "description": "Included capsicum,corn,tomato with extra cheese",
+        "photo": "https://media.istockphoto.com/id/1413684626/photo/…20&c=5f0LWWehcdDHX0G3oh4fw2xcr1-iP9F_xaYMoU83pOQ=",
+        "qunatity": 1
+      },
+      {
+        "id": "103",
+        "name": "Special PIZZA",
+        "price": "600",
+        "eachPrice": "600",
+        "description": "Included Onion,capsicum,corn with extra cheese",
+        "photo": "https://cdn.pixabay.com/photo/2016/05/05/09/19/pizza-1373508_640.jpg",
+        "qunatity": 1
+      }
+    ]
+  },
+  {
+    "names": "burgar",
+    "type": "item1",
+    "photo": "https://cdn.pixabay.com/photo/2020/03/25/16/23/burger-4967868_960_720.jpg",
+    "catrgory": [
+      {
+        "id": "104",
+        "eachPrice": "300",
+        "name": "Panner Tikka Burgar",
+        "price": "300",
+        "description": "Included Onion,capsicum,corn with extra cheese",
+        "photo": "https://cdn.pixabay.com/photo/2017/09/18/16/59/burger-2762431_640.jpg",
+        "qunatity": 1
+      },
+      {
+        "id": "105",
+        "name": "Aloo Tikki",
+        "price": "400",
+        "eachPrice": "400",
+        "description": "Included capsicum,corn,tomato with extra cheese",
+        "photo": "https://cdn.pixabay.com/photo/2019/01/29/18/05/burger-3962996_640.jpg",
+        "qunatity": 1
+      },
+      {
+        "id": "106",
+        "name": "Special Burgar",
+        "price": "600",
+        "eachPrice": "600",
+        "description": "Included Onion,capsicum,corn with extra cheese",
+        "photo": "https://cdn.pixabay.com/photo/2019/01/29/18/05/burger-3962997_640.jpg",
+        "qunatity": 1
+      }
+    ]
+  },
+  {
+    "names": "sandwitch",
+    "type": "item1",
+    "photo": "https://cdn.pixabay.com/photo/2017/05/10/17/27/sandwich-2301387_640.jpg",
+    "catrgory": [
+      {
+        "id": "107",
+        "name": "Panner Tikka Sandwitch",
+        "price": "300",
+        "eachPrice": "300",
+        "description": "Included Onion,capsicum,corn with extra cheese",
+        "photo": "https://cdn.pixabay.com/photo/2016/08/23/23/11/egg-1615790_640.jpg",
+        "qunatity": 1
+      },
+      {
+        "id": "108",
+        "name": "Aloo Tikki Sandwitch",
+        "price": "400",
+        "eachPrice": "400",
+        "description": "Included capsicum,corn,tomato with extra cheese",
+        "photo": "https://cdn.pixabay.com/photo/2015/08/16/12/02/sandwich-890822_640.jpg",
+        "qunatity": 1
+      },
+      {
+        "id": "109",
+        "name": "Double cheese sandwitch",
+        "price": "600",
+        "eachPrice": "600",
+        "description": "Included Onion,capsicum,corn with extra cheese",
+        "photo": "https://cdn.pixabay.com/photo/2018/03/31/07/43/bread-3277473_640.jpg",
+        "qunatity": 1
+      }
+    ]
+  },
+
+  {
+    "names": "fries",
+    "type": "item1",
+    "photo": "https://media.istockphoto.com/id/1443993866/photo/french-fries-with-ketchup-and-cocktail-sauce.jpg?b=1&s=170667a&w=0&k=20&c=jqSMNYhvr0-9Lt4XVRvRu3b7LVaKRs4Yq_GbEacCo_s=",
+    "catrgory": [
+      {
+        "id": "122",
+        "name": "Peri peri fries",
+        "price": "300",
+        "eachPrice": "300",
+        "description": "Included Onion,capsicum,corn with extra cheese",
+        "photo": "https://cdn.pixabay.com/photo/2012/03/02/00/29/beef-20678_640.jpg",
+        "qunatity": 1
+      },
+      {
+        "id": "123",
+        "name": "Special fries",
+        "price": "100",
+        "eachPrice": "100",
+        "description": "Included capsicum,corn,tomato with extra cheese",
+        "photo": "https://cdn.pixabay.com/photo/2016/04/25/01/58/french-fries-1351062_640.jpg",
+        "qunatity": 1
+      },
+      {
+        "id": "124",
+        "name": "tandorri fries",
+        "price": "300",
+        "eachPrice": "300",
+        "description": "Included Onion,capsicum,corn with extra cheese",
+        "photo": "https://cdn.pixabay.com/photo/2016/01/26/00/53/potatoe-1161819_1280.jpg",
+        "qunatity": 1
+      }
+    ]
+  },
+  {
+    "names": "momos",
+    "type": "item1",
+    "photo": "https://cdn.pixabay.com/photo/2021/01/25/16/36/momo-5948840_640.jpg",
+
+    "catrgory": [
+      {
+        "id": "110",
+        "name": "Paneer tandoori momos",
+        "price": "300",
+        "eachPrice": "300",
+        "description": "Included Onion,capsicum,corn with extra cheese",
+        "photo": "https://cdn.pixabay.com/photo/2020/05/20/12/24/momos-5196263_640.jpg",
+        "qunatity": 1
+      },
+      {
+        "id": "111",
+        "name": "Special Momos",
+        "price": "550",
+        "eachPrice": "550",
+        "description": "Included capsicum,corn,tomato with extra cheese",
+        "photo": "https://media.istockphoto.com/id/1377372234/photo/pizza-with-salami-bell-pepper-tomatoes-and-cheese-pickles-bacon-and-sausages-on-a-light.jpg?s=1024x1024&w=is&k=20&c=w42_pOFEXNNtcZ9iF0dPYXfXzuXOcKOLfWmItCnzRAg=",
+        "qunatity": 1
+      },
+      {
+        "id": "112",
+        "name": "veg momos",
+        "price": "300",
+        "eachPrice": "300",
+        "description": "Included Onion,capsicum,corn with extra cheese",
+        "photo": "https://media.istockphoto.com/id/1377372234/photo/pizza-with-salami-bell-pepper-tomatoes-and-cheese-pickles-bacon-and-sausages-on-a-light.jpg?s=1024x1024&w=is&k=20&c=w42_pOFEXNNtcZ9iF0dPYXfXzuXOcKOLfWmItCnzRAg=",
+        "qunatity": 1
+      }
+    ]
+  },
+  {
+    "names": "vegatable",
+    "type": "item3",
+    "photo": "https://cdn.pixabay.com/photo/2017/10/09/19/29/eat-2834549_1280.jpg",
+
+    "catrgory": [
+      {
+        "eachPrice": "120",
+        "id": "154",
+        "name": "Panner Angara",
+        "price": "300",
+        "description": "Included Onion,capsicum,corn with extra cheese",
+        "photo": "https://media.istockphoto.com/id/1377372234/photo/pizza-with-salami-bell-pepper-tomatoes-and-cheese-pickles-bacon-and-sausages-on-a-light.jpg?s=1024x1024&w=is&k=20&c=w42_pOFEXNNtcZ9iF0dPYXfXzuXOcKOLfWmItCnzRAg=",
+        "qunatity": 1
+      },
+      {
+        "eachPrice": "600",
+        "id": "155",
+        "name": "Chole fry",
+        "price": "600",
+        "description": "Included capsicum,corn,tomato with extra cheese",
+        "photo": "https://media.istockphoto.com/id/1377372234/photo/pizza-with-salami-bell-pepper-tomatoes-and-cheese-pickles-bacon-and-sausages-on-a-light.jpg?s=1024x1024&w=is&k=20&c=w42_pOFEXNNtcZ9iF0dPYXfXzuXOcKOLfWmItCnzRAg=",
+        "qunatity": 1
+      },
+      {
+        "eachPrice": "200",
+        "id": "156",
+        "name": "sev tamatar",
+        "price": "200",
+        "description": "Included Onion,capsicum,corn with extra cheese",
+        "photo": "https://media.istockphoto.com/id/1377372234/photo/pizza-with-salami-bell-pepper-tomatoes-and-cheese-pickles-bacon-and-sausages-on-a-light.jpg?s=1024x1024&w=is&k=20&c=w42_pOFEXNNtcZ9iF0dPYXfXzuXOcKOLfWmItCnzRAg=",
+        "qunatity": 1
+      }
+    ]
+  },
+
+  {
+    "names": "chapati",
+    "type": "item1",
+    "photo": "https://cdn.pixabay.com/photo/2021/02/07/17/51/sukumawiki-5992166_640.jpg",
+
+    "catrgory": [
+      {
+        "eachPrice": "150",
+        "id": "150",
+        "name": "Tandoori Naan",
+        "price": "300",
+        "description": "Included Onion,capsicum,corn with extra cheese",
+        "photo": "https://cdn.pixabay.com/photo/2014/10/15/05/05/chapati-489254_640.jpg",
+        "qunatity": 1
+      },
+      {
+        "eachPrice": "600",
+        "id": "151",
+        "name": "Lacha paratha",
+        "price": "80",
+        "description": "Included capsicum,corn,tomato with extra cheese",
+        "photo": "https://cdn.pixabay.com/photo/2021/02/07/17/51/sukumawiki-5992166_640.jpg",
+        "qunatity": 1
+      },
+      {
+        "eachPrice": "200",
+        "id": "152",
+        "name": "Rommali roti",
+        "price": "200",
+        "description": "Included Onion,capsicum,corn with extra cheese",
+        "photo": "https://cdn.pixabay.com/photo/2021/02/07/17/51/sukumawiki-5992166_640.jpg",
+        "qunatity": 1
+      }
+    ]
+  },
+
+  {
+    "names": "rice",
+    "type": "item3",
+    "photo": "https://cdn.pixabay.com/photo/2023/01/09/23/23/fried-rice-7708486_1280.jpg",
+
+    "catrgory": [
+      {
+        "eachPrice": "300",
+        "id": "113",
+        "name": "Fried Rice",
+        "price": "300",
+        "description": "Included Onion,capsicum,corn with extra cheese",
+        "photo": "https://cdn.pixabay.com/photo/2021/05/31/01/10/fried-rice-6297406_640.jpg",
+        "qunatity": 1
+      },
+      {
+        "eachPrice": "600",
+        "id": "114",
+        "name": "sejwan fried Rice",
+        "price": "600",
+        "description": "Included capsicum,corn,tomato with extra cheese",
+        "photo": "https://cdn.pixabay.com/photo/2019/07/07/08/25/fried-rice-4321984_640.jpg",
+        "qunatity": 1
+      },
+      {
+        "eachPrice": "200",
+        "id": "115",
+        "name": "Biryani",
+        "price": "200",
+        "description": "Included Onion,capsicum,corn with extra cheese",
+        "photo": "https://cdn.pixabay.com/photo/2019/07/07/08/25/fried-rice-4321984_640.jpg",
+        "qunatity": 1
+      }
+    ]
+  },
+  {
+    "names": "shakes",
+    "type": "item2",
+    "photo": "https://cdn.pixabay.com/photo/2016/11/29/13/33/cocktails-1869868_1280.jpg",
+
+    "catrgory": [
+      {
+        "eachPrice": "300",
+        "qunatity": 1,
+        "id": "116",
+        "name": "Oreo Shake",
+        "price": "300",
+        "description": "Included chocolates",
+        "photo": "https://cdn.pixabay.com/photo/2020/03/07/05/18/beverage-4908765_1280.jpg"
+      },
+      {
+        "eachPrice": "300",
+        "id": "117",
+        "name": "Kitkat Shake",
+        "qunatity": 1,
+        "price": "300",
+        "description": "Included capsicum,corn,tomato with extra cheese",
+        "photo": "https://cdn.pixabay.com/photo/2015/11/23/11/54/chocolate-smoothie-1058191_640.jpg"
+      },
+      {
+        "name": "Hazelnut shake",
+        "eachPrice": "200",
+        "qunatity": 1,
+        "id": "118",
+        "price": "200",
+        "description": "Included extra choco",
+        "photo": "https://cdn.pixabay.com/photo/2015/11/23/11/54/chocolate-smoothie-1058191_640.jpg"
+      }
+    ]
+  },
+  {
+    "names": "mocktails",
+    "type": "item2",
+    "photo": "https://cdn.pixabay.com/photo/2022/02/19/17/11/drink-7023126_640.jpg",
+
+    "catrgory": [
+      {
+        "eachPrice": "300",
+        "qunatity": 1,
+        "id": "119",
+        "name": "Paan Mojito",
+        "price": "300",
+        "description": "Included chocolates",
+        "photo": "https://cdn.pixabay.com/photo/2022/06/01/08/56/cocktails-and-mocktails-7235132_960_720.jpg"
+      },
+      {
+        "eachPrice": "120",
+        "id": "120",
+        "name": "Blue Lagon",
+        "qunatity": 1,
+        "price": "120",
+        "description": "Included capsicum,corn,tomato with extra cheese",
+        "photo": "https://cdn.pixabay.com/photo/2022/06/01/08/56/cocktails-and-mocktails-7235132_960_720.jpg"
+      },
+      {
+        "eachPrice": "140",
+        "id": "121",
+        "name": "Mint mojito",
+        "qunatity": 1,
+        "price": "140",
+        "description": "Included extra choco",
+        "photo": "https://media.istockphoto.com/id/1377372234/photo/pizza-with-salami-bell-pepper-tomatoes-and-cheese-pickles-bacon-and-sausages-on-a-light.jpg?s=1024x1024&w=is&k=20&c=w42_pOFEXNNtcZ9iF0dPYXfXzuXOcKOLfWmItCnzRAg="
+      }
+    ]
+  }
+]
